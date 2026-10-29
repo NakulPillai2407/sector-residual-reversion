@@ -1,0 +1,665 @@
+ticker,member_in_insample,has_price_data_insample,sector_status,gics_sector,first_price,last_price,is_current_constituent
+A,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+AAL,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+AAP,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+AAPL,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ABBV,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ABMD,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ABNB,True,True,ok,Consumer Discretionary,2020-12-10,2023-12-29,True
+ABT,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ACGL,True,True,ok,Financials,2018-06-01,2023-12-29,True
+ACN,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ADBE,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ADI,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ADM,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+ADP,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ADS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ADSK,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+AEE,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+AEP,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+AES,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+AET,True,False,excluded: unmapped Yahoo sector nan,,,,False
+AFL,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AGN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+AIG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AIV,True,True,ok,Real Estate,2018-06-01,2023-12-29,False
+AIZ,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AJG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AKAM,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ALB,True,True,ok,Materials,2018-06-01,2023-12-29,True
+ALGN,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ALK,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+ALL,True,True,ok,Financials,2018-06-01,2023-12-29,True
+ALLE,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ALXN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+AMAT,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+AMCR,True,True,ok,Materials,2018-06-01,2023-12-29,True
+AMD,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+AME,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+AMG,True,True,ok,Financials,2018-06-01,2023-12-29,False
+AMGN,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+AMP,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AMT,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+AMTM,False,False,ok,Industrials,,,False
+AMZN,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+ANDV,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ANET,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ANSS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+AON,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AOS,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+APA,True,True,ok,Energy,2018-06-01,2023-12-29,True
+APC,True,False,ok,Energy,,,False
+APD,True,True,ok,Materials,2018-06-01,2023-12-29,True
+APH,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+APO,False,True,ok,Financials,2018-06-01,2023-12-29,True
+APP,False,True,ok,Communication Services,2021-04-15,2023-12-29,True
+APTV,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+ARE,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+ARES,False,True,ok,Financials,2018-06-01,2023-12-29,True
+ARNC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ATO,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+ATVI,True,False,excluded: unmapped Yahoo sector nan,,,,False
+AVB,True,False,ok,Real Estate,,,False
+AVGO,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+AVY,True,True,ok,Materials,2018-06-01,2023-12-29,True
+AWK,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+AXON,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+AXP,True,True,ok,Financials,2018-06-01,2023-12-29,True
+AYI,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+AZO,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+BA,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+BAC,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BALL,True,True,ok,Materials,2018-06-01,2023-12-29,True
+BAX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+BBWI,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+BBY,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+BDX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+BE,False,True,ok,Industrials,2018-07-25,2023-12-29,True
+BEN,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BF-B,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+BG,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+BHF,True,True,ok,Financials,2018-06-01,2023-12-29,False
+BIIB,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+BIO,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+BKNG,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+BKR,True,True,ok,Energy,2018-06-01,2023-12-29,True
+BLDR,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+BLK,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BMS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+BMY,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+BNY,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+BRK-B,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BRO,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BSX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+BWA,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+BX,True,True,ok,Financials,2018-06-01,2023-12-29,True
+BXP,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+C,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CA,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CAG,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+CAH,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+CARR,True,True,ok,Industrials,2020-03-19,2023-12-29,True
+CASY,False,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+CAT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CB,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CBOE,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CBRE,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+CCI,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+CCL,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+CDAY,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CDNS,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CDW,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CE,True,True,ok,Materials,2018-06-01,2023-12-29,False
+CEG,True,True,ok,Utilities,2022-01-19,2023-12-29,True
+CELG,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CERN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CF,True,True,ok,Materials,2018-06-01,2023-12-29,True
+CFG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CHD,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+CHRW,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CHTR,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+CI,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+CIEN,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CINF,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CL,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+CLX,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+CMA,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CMCSA,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+CME,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CMG,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+CMI,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CMS,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+CNC,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+CNP,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+COF,True,True,ok,Financials,2018-06-01,2023-12-29,True
+COHR,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+COIN,False,True,ok,Financials,2021-04-14,2023-12-29,True
+COL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+COO,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+COP,True,True,ok,Energy,2018-06-01,2023-12-29,True
+COR,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+COST,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+COTY,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+CPAY,True,True,ok,Financials,2018-06-01,2023-12-29,True
+CPB,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+CPRI,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+CPRT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CPT,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+CRH,False,True,ok,Materials,2018-06-01,2023-12-29,True
+CRL,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+CRM,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CRWD,False,True,ok,Information Technology,2019-06-12,2023-12-29,True
+CSCO,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CSGP,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+CSX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CTAS,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+CTLT,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CTRA,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CTSH,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+CTVA,True,True,ok,Materials,2019-05-24,2023-12-29,False
+CTXS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CVNA,False,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+CVS,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+CVX,True,True,ok,Energy,2018-06-01,2023-12-29,True
+CXO,True,False,excluded: unmapped Yahoo sector nan,,,,False
+CZR,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+D,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+DAL,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+DASH,False,True,ok,Consumer Discretionary,2020-12-09,2023-12-29,True
+DAY,False,False,excluded: unmapped Yahoo sector nan,,,,False
+DD,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+DDOG,False,True,ok,Information Technology,2019-09-19,2023-12-29,True
+DE,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+DECK,False,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+DELL,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+DFS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DG,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+DGX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+DHI,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+DHR,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+DIS,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+DISCA,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DISCK,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DISH,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DLR,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+DLTR,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+DOC,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+DOV,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+DOW,True,True,ok,Materials,2019-03-20,2023-12-29,True
+DPS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DPZ,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+DRE,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DRI,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+DTE,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+DUK,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+DVA,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+DVN,True,True,ok,Energy,2018-06-01,2023-12-29,True
+DWDP,True,False,excluded: unmapped Yahoo sector nan,,,,False
+DXC,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+DXCM,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+EA,True,False,ok,Communication Services,,,False
+EBAY,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+ECHO,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+ECL,True,True,ok,Materials,2018-06-01,2023-12-29,True
+ED,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+EFX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+EG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+EIX,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+EL,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+ELV,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+EME,False,True,ok,Industrials,2018-06-01,2023-12-29,True
+EMN,True,True,ok,Materials,2018-06-01,2023-12-29,False
+EMR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ENPH,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+EOG,True,True,ok,Energy,2018-06-01,2023-12-29,True
+EPAM,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+EQIX,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+EQT,True,True,ok,Energy,2018-06-01,2023-12-29,True
+ERIE,False,True,ok,Financials,2018-06-01,2023-12-29,True
+ES,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+ESRX,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ESS,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+ETFC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+ETN,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ETR,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+ETSY,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+EVHC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+EVRG,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+EW,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+EXC,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+EXE,False,True,ok,Energy,2021-02-10,2023-12-29,True
+EXPD,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+EXPE,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+EXR,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+F,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+FANG,True,True,ok,Energy,2018-06-01,2023-12-29,True
+FAST,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+FBHS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+FCX,True,True,ok,Materials,2018-06-01,2023-12-29,True
+FDS,True,True,ok,Financials,2018-06-01,2023-12-29,True
+FDX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+FDXF,False,False,ok,Industrials,,,True
+FE,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+FERG,False,True,ok,Industrials,2018-06-01,2023-12-29,True
+FFIV,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+FICO,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+FIS,True,True,ok,Financials,2018-06-01,2023-12-29,True
+FISV,True,True,ok,Financials,2018-06-01,2023-12-29,True
+FITB,True,True,ok,Financials,2018-06-01,2023-12-29,True
+FIX,False,True,ok,Industrials,2018-06-01,2023-12-29,True
+FL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+FLEX,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+FLIR,True,False,excluded: unmapped Yahoo sector nan,,,,False
+FLR,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+FLS,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+FLT,True,False,excluded: unmapped Yahoo sector nan,,,,False
+FMC,True,True,ok,Materials,2018-06-01,2023-12-29,False
+FOX,True,True,ok,Communication Services,2019-03-13,2023-12-29,True
+FOXA,True,True,ok,Communication Services,2019-03-12,2023-12-29,True
+FRC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+FRT,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+FSLR,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+FTI,True,True,ok,Energy,2018-06-01,2023-12-29,False
+FTNT,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+FTV,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+GD,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+GDDY,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+GE,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+GEHC,True,True,ok,Health Care,2022-12-15,2023-12-29,True
+GEN,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+GEV,False,False,ok,Industrials,,,True
+GGP,True,False,excluded: unmapped Yahoo sector nan,,,,False
+GILD,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+GIS,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+GL,True,True,ok,Financials,2018-06-01,2023-12-29,True
+GLW,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+GM,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+GNRC,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+GOOG,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+GOOGL,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+GPC,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+GPN,True,True,ok,Financials,2018-06-01,2023-12-29,True
+GPS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+GRMN,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+GS,True,True,ok,Financials,2018-06-01,2023-12-29,True
+GT,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+GWW,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+HAL,True,True,ok,Energy,2018-06-01,2023-12-29,True
+HAS,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+HBAN,True,True,ok,Financials,2018-06-01,2023-12-29,True
+HBI,True,False,excluded: unmapped Yahoo sector nan,,,,False
+HCA,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+HD,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+HES,True,False,excluded: unmapped Yahoo sector nan,,,,False
+HFC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+HIG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+HII,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+HLT,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+HOG,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+HOLX,True,False,excluded: unmapped Yahoo sector nan,,,,False
+HON,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+HONA,False,False,ok,Industrials,,,True
+HOOD,False,True,ok,Financials,2021-07-29,2023-12-29,True
+HP,True,True,ok,Energy,2018-06-01,2023-12-29,False
+HPE,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+HPQ,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+HRB,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+HRL,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+HSIC,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+HST,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+HSY,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+HUBB,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+HUM,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+HWM,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+IBKR,False,True,ok,Financials,2018-06-01,2023-12-29,True
+IBM,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ICE,True,True,ok,Financials,2018-06-01,2023-12-29,True
+IDXX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+IEX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+IFF,True,True,ok,Materials,2018-06-01,2023-12-29,True
+ILMN,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+INCY,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+INFO,True,False,excluded: unmapped Yahoo sector nan,,,,False
+INTC,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+INTU,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+INVH,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+IP,True,True,ok,Materials,2018-06-01,2023-12-29,True
+IPG,True,False,excluded: unmapped Yahoo sector nan,,,,False
+IPGP,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+IQV,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+IR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+IRM,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+ISRG,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+IT,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ITW,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+IVZ,True,True,ok,Financials,2018-06-01,2023-12-29,True
+J,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+JBHT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+JBL,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+JCI,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+JEF,True,True,ok,Financials,2018-06-01,2023-12-29,False
+JKHY,True,True,ok,Financials,2018-06-01,2023-12-29,True
+JNJ,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+JNPR,True,False,excluded: unmapped Yahoo sector nan,,,,False
+JPM,True,True,ok,Financials,2018-06-01,2023-12-29,True
+JWN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+K,True,False,excluded: unmapped Yahoo sector nan,,,,False
+KDP,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+KEY,True,True,ok,Financials,2018-06-01,2023-12-29,True
+KEYS,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+KHC,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+KIM,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+KKR,False,True,ok,Financials,2018-06-01,2023-12-29,True
+KLAC,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+KMB,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+KMI,True,True,ok,Energy,2018-06-01,2023-12-29,True
+KMX,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+KO,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+KR,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+KSS,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+KSU,True,False,excluded: unmapped Yahoo sector nan,,,,False
+KVUE,True,True,ok,Consumer Staples,2023-05-04,2023-12-29,True
+L,True,True,ok,Financials,2018-06-01,2023-12-29,True
+LDOS,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+LEG,True,False,ok,Consumer Discretionary,,,False
+LEN,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+LH,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+LHX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+LII,False,True,ok,Industrials,2018-06-01,2023-12-29,True
+LIN,True,True,ok,Materials,2018-06-01,2023-12-29,True
+LITE,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+LKQ,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+LLL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+LLY,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+LMT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+LNC,True,True,ok,Financials,2018-06-01,2023-12-29,False
+LNT,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+LOW,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+LRCX,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+LULU,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+LUMN,True,True,ok,Communication Services,2018-06-01,2023-12-29,False
+LUV,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+LVS,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+LW,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+LYB,True,True,ok,Materials,2018-06-01,2023-12-29,True
+LYV,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+M,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+MA,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MAA,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+MAC,True,True,ok,Real Estate,2018-06-01,2023-12-29,False
+MAR,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+MAS,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+MAT,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+MBC,True,True,ok,Consumer Discretionary,2022-12-09,2023-12-29,False
+MCD,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+MCHP,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MCK,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+MCO,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MDLZ,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+MDT,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+MET,True,True,ok,Financials,2018-06-01,2023-12-29,True
+META,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+MGM,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+MHK,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+MKC,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+MKTX,True,True,ok,Financials,2018-06-01,2023-12-29,False
+MLM,True,True,ok,Materials,2018-06-01,2023-12-29,True
+MMM,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+MNST,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+MO,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+MOH,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+MON,True,False,excluded: unmapped Yahoo sector nan,,,,False
+MOS,True,True,ok,Materials,2018-06-01,2023-12-29,True
+MPC,True,True,ok,Energy,2018-06-01,2023-12-29,True
+MPWR,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MRK,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+MRNA,True,True,ok,Health Care,2018-12-07,2023-12-29,True
+MRO,True,False,excluded: unmapped Yahoo sector nan,,,,False
+MRSH,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MRVL,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MS,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MSCI,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MSFT,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MSI,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MTB,True,True,ok,Financials,2018-06-01,2023-12-29,True
+MTCH,True,True,ok,Communication Services,2018-06-01,2023-12-29,False
+MTD,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+MU,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+MXIM,True,False,excluded: unmapped Yahoo sector nan,,,,False
+NAVI,True,True,ok,Financials,2018-06-01,2023-12-29,False
+NBL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+NCLH,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+NDAQ,True,True,ok,Financials,2018-06-01,2023-12-29,True
+NDSN,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+NEE,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+NEM,True,True,ok,Materials,2018-06-01,2023-12-29,True
+NFLX,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+NFX,True,False,excluded: unmapped Yahoo sector nan,,,,False
+NI,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+NKE,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+NKTR,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+NLSN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+NOC,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+NOV,True,True,ok,Energy,2018-06-01,2023-12-29,False
+NOW,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+NRG,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+NSC,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+NTAP,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+NTRS,True,True,ok,Financials,2018-06-01,2023-12-29,True
+NUE,True,True,ok,Materials,2018-06-01,2023-12-29,True
+NVDA,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+NVR,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+NWL,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+NWS,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+NWSA,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+NXPI,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+O,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+ODFL,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+OGN,True,True,ok,Health Care,2021-05-14,2023-12-29,False
+OKE,True,True,ok,Energy,2018-06-01,2023-12-29,True
+OMC,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+ON,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ORCL,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ORLY,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+OTIS,True,True,ok,Industrials,2020-03-19,2023-12-29,True
+OXY,True,True,ok,Energy,2018-06-01,2023-12-29,True
+P,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+PANW,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+PAYC,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+PAYX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+PBCT,True,False,excluded: unmapped Yahoo sector nan,,,,False
+PCAR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+PCG,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+PEG,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+PENN,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+PEP,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+PFE,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+PFG,True,True,ok,Financials,2018-06-01,2023-12-29,True
+PG,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+PGR,True,True,ok,Financials,2018-06-01,2023-12-29,True
+PH,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+PHM,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+PKG,True,True,ok,Materials,2018-06-01,2023-12-29,True
+PLD,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+PLTR,False,True,ok,Information Technology,2020-09-30,2023-12-29,True
+PM,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+PNC,True,True,ok,Financials,2018-06-01,2023-12-29,True
+PNR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+PNW,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+PODD,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+POOL,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+PPG,True,True,ok,Materials,2018-06-01,2023-12-29,True
+PPL,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+PRGO,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+PRU,True,True,ok,Financials,2018-06-01,2023-12-29,True
+PSA,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+PSX,True,True,ok,Energy,2018-06-01,2023-12-29,True
+PTC,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+PVH,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+PWR,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+PXD,True,False,excluded: unmapped Yahoo sector nan,,,,False
+PYPL,True,True,ok,Financials,2018-06-01,2023-12-29,True
+Q,False,False,ok,Information Technology,,,True
+QCOM,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+QRVO,True,False,ok,Information Technology,,,False
+RCL,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+RDDT,False,False,ok,Communication Services,,,True
+REG,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+REGN,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+RF,True,True,ok,Financials,2018-06-01,2023-12-29,True
+RHI,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+RHT,True,False,excluded: unmapped Yahoo sector nan,,,,False
+RJF,True,True,ok,Financials,2018-06-01,2023-12-29,True
+RL,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+RMD,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ROK,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ROL,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+ROP,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ROST,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+RRC,True,True,ok,Energy,2018-06-01,2023-12-29,False
+RSG,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+RTN,True,False,excluded: unmapped Yahoo sector nan,,,,False
+RTX,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+RVTY,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+SATS,False,False,ok,Financials,,,False
+SBAC,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+SBNY,True,False,ok,Financials,,,False
+SBUX,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+SCG,True,False,excluded: unmapped Yahoo sector nan,,,,False
+SCHW,True,True,ok,Financials,2018-06-01,2023-12-29,True
+SEDG,True,True,ok,Information Technology,2018-06-01,2023-12-29,False
+SEE,True,False,excluded: unmapped Yahoo sector nan,,,,False
+SHW,True,True,ok,Materials,2018-06-01,2023-12-29,True
+SIVB,True,False,excluded: unmapped Yahoo sector nan,,,,False
+SJM,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+SKYD,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+SLB,True,True,ok,Energy,2018-06-01,2023-12-29,True
+SLG,True,True,ok,Real Estate,2018-06-01,2023-12-29,False
+SMCI,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+SNA,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+SNDK,False,False,ok,Information Technology,,,True
+SNPS,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+SO,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+SOLS,False,False,ok,Materials,,,False
+SOLV,False,False,ok,Health Care,,,True
+SPG,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+SPGI,True,True,ok,Financials,2018-06-01,2023-12-29,True
+SRCL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+SRE,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+STE,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+STI,True,True,ok,Industrials,2022-05-02,2023-12-29,False
+STLD,True,True,ok,Materials,2018-06-01,2023-12-29,True
+STT,True,True,ok,Financials,2018-06-01,2023-12-29,True
+STX,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+STZ,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+SW,True,True,ok,Materials,2018-06-01,2023-12-29,True
+SWK,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+SWKS,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+SYF,True,True,ok,Financials,2018-06-01,2023-12-29,True
+SYK,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+SYY,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+T,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+TAP,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,False
+TDG,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+TDY,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TECH,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+TEL,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TER,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TFC,True,True,ok,Financials,2018-06-01,2023-12-29,True
+TFX,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+TGT,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+TIF,True,False,excluded: unmapped Yahoo sector nan,,,,False
+TJX,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+TKO,False,True,ok,Communication Services,2018-06-01,2023-12-29,True
+TMO,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+TMUS,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+TPL,False,True,ok,Energy,2018-06-01,2023-12-29,True
+TPR,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+TRGP,True,True,ok,Energy,2018-06-01,2023-12-29,True
+TRIP,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+TRMB,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TROW,True,True,ok,Financials,2018-06-01,2023-12-29,True
+TRV,True,True,ok,Financials,2018-06-01,2023-12-29,True
+TSCO,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+TSLA,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+TSN,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+TSS,True,False,excluded: unmapped Yahoo sector nan,,,,False
+TT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+TTD,False,True,ok,Communication Services,2018-06-01,2023-12-29,False
+TTWO,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+TWLO,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TWTR,True,False,excluded: unmapped Yahoo sector nan,,,,False
+TWX,True,False,excluded: unmapped Yahoo sector nan,,,,False
+TXN,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+TXT,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+TYL,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+UA,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+UAA,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+UAL,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+UBER,True,True,ok,Industrials,2019-05-10,2023-12-29,True
+UDR,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+UHS,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ULTA,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+UNH,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+UNM,True,True,ok,Financials,2018-06-01,2023-12-29,False
+UNP,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+UPS,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+URI,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+USB,True,True,ok,Financials,2018-06-01,2023-12-29,True
+V,True,True,ok,Financials,2018-06-01,2023-12-29,True
+VAR,True,False,excluded: unmapped Yahoo sector nan,,,,False
+VEEV,False,True,ok,Health Care,2018-06-01,2023-12-29,True
+VFC,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+VIAB,True,False,excluded: unmapped Yahoo sector nan,,,,False
+VICI,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+VLO,True,True,ok,Energy,2018-06-01,2023-12-29,True
+VLTO,True,True,ok,Industrials,2023-10-04,2023-12-29,True
+VMC,True,True,ok,Materials,2018-06-01,2023-12-29,True
+VMRK,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+VNO,True,True,ok,Real Estate,2018-06-01,2023-12-29,False
+VNT,True,True,ok,Information Technology,2020-09-24,2023-12-29,False
+VRSK,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+VRSN,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+VRT,False,True,ok,Industrials,2018-08-02,2023-12-29,True
+VRTX,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+VST,False,True,ok,Utilities,2018-06-01,2023-12-29,True
+VTR,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+VTRS,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+VZ,True,True,ok,Communication Services,2018-06-01,2023-12-29,True
+WAB,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+WAT,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+WBA,True,False,excluded: unmapped Yahoo sector nan,,,,False
+WBD,True,False,ok,Communication Services,,,False
+WCG,True,False,excluded: unmapped Yahoo sector nan,,,,False
+WDAY,False,True,ok,Information Technology,2018-06-01,2023-12-29,True
+WDC,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+WEC,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+WELL,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+WFC,True,True,ok,Financials,2018-06-01,2023-12-29,True
+WHR,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,False
+WLTW,True,False,excluded: unmapped Yahoo sector nan,,,,False
+WM,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+WMB,True,True,ok,Energy,2018-06-01,2023-12-29,True
+WMT,True,True,ok,Consumer Staples,2018-06-01,2023-12-29,True
+WRB,True,True,ok,Financials,2018-06-01,2023-12-29,True
+WSM,False,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+WST,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+WTW,True,True,ok,Financials,2018-06-01,2023-12-29,True
+WU,True,True,ok,Financials,2018-06-01,2023-12-29,False
+WY,True,True,ok,Real Estate,2018-06-01,2023-12-29,True
+WYNN,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+XEC,True,False,excluded: unmapped Yahoo sector nan,,,,False
+XEL,True,True,ok,Utilities,2018-06-01,2023-12-29,True
+XL,True,False,excluded: unmapped Yahoo sector nan,,,,False
+XLNX,True,False,excluded: unmapped Yahoo sector nan,,,,False
+XOM,True,True,ok,Energy,2018-06-01,2023-12-29,True
+XRAY,True,True,ok,Health Care,2018-06-01,2023-12-29,False
+XRX,True,True,ok,Industrials,2018-06-01,2023-12-29,False
+XYL,True,True,ok,Industrials,2018-06-01,2023-12-29,True
+XYZ,False,True,ok,Financials,2018-06-01,2023-12-29,True
+YUM,True,True,ok,Consumer Discretionary,2018-06-01,2023-12-29,True
+ZBH,True,True,ok,Health Care,2018-06-01,2023-12-29,True
+ZBRA,True,True,ok,Information Technology,2018-06-01,2023-12-29,True
+ZION,True,True,ok,Financials,2018-06-01,2023-12-29,False
+ZTS,True,True,ok,Health Care,2018-06-01,2023-12-29,True

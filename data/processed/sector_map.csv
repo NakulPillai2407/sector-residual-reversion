@@ -1,0 +1,665 @@
+ticker,raw_sector,gics_sector,etf,source,status
+A,Health Care,Health Care,XLV,wikipedia.current,ok
+AAL,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+AAP,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+AAPL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ABBV,Health Care,Health Care,XLV,wikipedia.current,ok
+ABMD,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ABNB,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+ABT,Health Care,Health Care,XLV,wikipedia.current,ok
+ACGL,Financials,Financials,XLF,wikipedia.current,ok
+ACN,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ADBE,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ADI,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ADM,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+ADP,Industrials,Industrials,XLI,wikipedia.current,ok
+ADS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ADSK,Information Technology,Information Technology,XLK,wikipedia.current,ok
+AEE,Utilities,Utilities,XLU,wikipedia.current,ok
+AEP,Utilities,Utilities,XLU,wikipedia.current,ok
+AES,Utilities,Utilities,XLU,wikipedia.current,ok
+AET,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+AFL,Financials,Financials,XLF,wikipedia.current,ok
+AGN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+AIG,Financials,Financials,XLF,wikipedia.current,ok
+AIV,Real Estate,Real Estate,XLRE,yahoo.info->mapping,ok
+AIZ,Financials,Financials,XLF,wikipedia.current,ok
+AJG,Financials,Financials,XLF,wikipedia.current,ok
+AKAM,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ALB,Materials,Materials,XLB,wikipedia.current,ok
+ALGN,Health Care,Health Care,XLV,wikipedia.current,ok
+ALK,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+ALL,Financials,Financials,XLF,wikipedia.current,ok
+ALLE,Industrials,Industrials,XLI,wikipedia.current,ok
+ALXN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+AMAT,Information Technology,Information Technology,XLK,wikipedia.current,ok
+AMCR,Materials,Materials,XLB,wikipedia.current,ok
+AMD,Information Technology,Information Technology,XLK,wikipedia.current,ok
+AME,Industrials,Industrials,XLI,wikipedia.current,ok
+AMG,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+AMGN,Health Care,Health Care,XLV,wikipedia.current,ok
+AMP,Financials,Financials,XLF,wikipedia.current,ok
+AMT,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+AMTM,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+AMZN,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+ANDV,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ANET,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ANSS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+AON,Financials,Financials,XLF,wikipedia.current,ok
+AOS,Industrials,Industrials,XLI,wikipedia.current,ok
+APA,Energy,Energy,XLE,wikipedia.current,ok
+APC,Energy,Energy,XLE,yahoo.info->mapping,ok
+APD,Materials,Materials,XLB,wikipedia.current,ok
+APH,Information Technology,Information Technology,XLK,wikipedia.current,ok
+APO,Financials,Financials,XLF,wikipedia.current,ok
+APP,Communication Services,Communication Services,XLC,wikipedia.current,ok
+APTV,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+ARE,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+ARES,Financials,Financials,XLF,wikipedia.current,ok
+ARNC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ATO,Utilities,Utilities,XLU,wikipedia.current,ok
+ATVI,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+AVB,Real Estate,Real Estate,XLRE,yahoo.info->mapping,ok
+AVGO,Information Technology,Information Technology,XLK,wikipedia.current,ok
+AVY,Materials,Materials,XLB,wikipedia.current,ok
+AWK,Utilities,Utilities,XLU,wikipedia.current,ok
+AXON,Industrials,Industrials,XLI,wikipedia.current,ok
+AXP,Financials,Financials,XLF,wikipedia.current,ok
+AYI,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+AZO,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+BA,Industrials,Industrials,XLI,wikipedia.current,ok
+BAC,Financials,Financials,XLF,wikipedia.current,ok
+BALL,Materials,Materials,XLB,wikipedia.current,ok
+BAX,Health Care,Health Care,XLV,wikipedia.current,ok
+BBWI,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+BBY,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+BDX,Health Care,Health Care,XLV,wikipedia.current,ok
+BE,Industrials,Industrials,XLI,wikipedia.current,ok
+BEN,Financials,Financials,XLF,wikipedia.current,ok
+BF-B,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+BG,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+BHF,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+BIIB,Health Care,Health Care,XLV,wikipedia.current,ok
+BIO,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+BKNG,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+BKR,Energy,Energy,XLE,wikipedia.current,ok
+BLDR,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+BLK,Financials,Financials,XLF,wikipedia.current,ok
+BMS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+BMY,Health Care,Health Care,XLV,wikipedia.current,ok
+BNY,Financials,Financials,XLF,wikipedia.current,ok
+BR,Industrials,Industrials,XLI,wikipedia.current,ok
+BRK-B,Financials,Financials,XLF,wikipedia.current,ok
+BRO,Financials,Financials,XLF,wikipedia.current,ok
+BSX,Health Care,Health Care,XLV,wikipedia.current,ok
+BWA,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+BX,Financials,Financials,XLF,wikipedia.current,ok
+BXP,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+C,Financials,Financials,XLF,wikipedia.current,ok
+CA,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CAG,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+CAH,Health Care,Health Care,XLV,wikipedia.current,ok
+CARR,Industrials,Industrials,XLI,wikipedia.current,ok
+CASY,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+CAT,Industrials,Industrials,XLI,wikipedia.current,ok
+CB,Financials,Financials,XLF,wikipedia.current,ok
+CBOE,Financials,Financials,XLF,wikipedia.current,ok
+CBRE,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+CCI,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+CCL,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+CDAY,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CDNS,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CDW,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CE,Basic Materials,Materials,XLB,yahoo.info->mapping,ok
+CEG,Utilities,Utilities,XLU,wikipedia.current,ok
+CELG,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CERN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CF,Materials,Materials,XLB,wikipedia.current,ok
+CFG,Financials,Financials,XLF,wikipedia.current,ok
+CHD,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+CHRW,Industrials,Industrials,XLI,wikipedia.current,ok
+CHTR,Communication Services,Communication Services,XLC,wikipedia.current,ok
+CI,Health Care,Health Care,XLV,wikipedia.current,ok
+CIEN,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CINF,Financials,Financials,XLF,wikipedia.current,ok
+CL,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+CLX,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+CMA,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CMCSA,Communication Services,Communication Services,XLC,wikipedia.current,ok
+CME,Financials,Financials,XLF,wikipedia.current,ok
+CMG,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+CMI,Industrials,Industrials,XLI,wikipedia.current,ok
+CMS,Utilities,Utilities,XLU,wikipedia.current,ok
+CNC,Health Care,Health Care,XLV,wikipedia.current,ok
+CNP,Utilities,Utilities,XLU,wikipedia.current,ok
+COF,Financials,Financials,XLF,wikipedia.current,ok
+COHR,Information Technology,Information Technology,XLK,wikipedia.current,ok
+COIN,Financials,Financials,XLF,wikipedia.current,ok
+COL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+COO,Health Care,Health Care,XLV,wikipedia.current,ok
+COP,Energy,Energy,XLE,wikipedia.current,ok
+COR,Health Care,Health Care,XLV,wikipedia.current,ok
+COST,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+COTY,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+CPAY,Financials,Financials,XLF,wikipedia.current,ok
+CPB,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+CPRI,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+CPRT,Industrials,Industrials,XLI,wikipedia.current,ok
+CPT,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+CRH,Materials,Materials,XLB,wikipedia.current,ok
+CRL,Health Care,Health Care,XLV,wikipedia.current,ok
+CRM,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CRWD,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CSCO,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CSGP,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+CSX,Industrials,Industrials,XLI,wikipedia.current,ok
+CTAS,Industrials,Industrials,XLI,wikipedia.current,ok
+CTLT,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CTRA,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CTSH,Information Technology,Information Technology,XLK,wikipedia.current,ok
+CTVA,Basic Materials,Materials,XLB,yahoo.info->mapping,ok
+CTXS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CVNA,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+CVS,Health Care,Health Care,XLV,wikipedia.current,ok
+CVX,Energy,Energy,XLE,wikipedia.current,ok
+CXO,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+CZR,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+D,Utilities,Utilities,XLU,wikipedia.current,ok
+DAL,Industrials,Industrials,XLI,wikipedia.current,ok
+DASH,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+DAY,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DD,Industrials,Industrials,XLI,wikipedia.current,ok
+DDOG,Information Technology,Information Technology,XLK,wikipedia.current,ok
+DE,Industrials,Industrials,XLI,wikipedia.current,ok
+DECK,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+DELL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+DFS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DG,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+DGX,Health Care,Health Care,XLV,wikipedia.current,ok
+DHI,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+DHR,Health Care,Health Care,XLV,wikipedia.current,ok
+DIS,Communication Services,Communication Services,XLC,wikipedia.current,ok
+DISCA,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DISCK,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DISH,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DLR,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+DLTR,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+DOC,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+DOV,Industrials,Industrials,XLI,wikipedia.current,ok
+DOW,Materials,Materials,XLB,wikipedia.current,ok
+DPS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DPZ,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+DRE,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DRI,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+DTE,Utilities,Utilities,XLU,wikipedia.current,ok
+DUK,Utilities,Utilities,XLU,wikipedia.current,ok
+DVA,Health Care,Health Care,XLV,wikipedia.current,ok
+DVN,Energy,Energy,XLE,wikipedia.current,ok
+DWDP,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+DXC,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+DXCM,Health Care,Health Care,XLV,wikipedia.current,ok
+EA,Communication Services,Communication Services,XLC,yahoo.info->mapping,ok
+EBAY,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+ECHO,Communication Services,Communication Services,XLC,wikipedia.current,ok
+ECL,Materials,Materials,XLB,wikipedia.current,ok
+ED,Utilities,Utilities,XLU,wikipedia.current,ok
+EFX,Industrials,Industrials,XLI,wikipedia.current,ok
+EG,Financials,Financials,XLF,wikipedia.current,ok
+EIX,Utilities,Utilities,XLU,wikipedia.current,ok
+EL,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+ELV,Health Care,Health Care,XLV,wikipedia.current,ok
+EME,Industrials,Industrials,XLI,wikipedia.current,ok
+EMN,Basic Materials,Materials,XLB,yahoo.info->mapping,ok
+EMR,Industrials,Industrials,XLI,wikipedia.current,ok
+ENPH,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+EOG,Energy,Energy,XLE,wikipedia.current,ok
+EPAM,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+EQIX,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+EQT,Energy,Energy,XLE,wikipedia.current,ok
+ERIE,Financials,Financials,XLF,wikipedia.current,ok
+ES,Utilities,Utilities,XLU,wikipedia.current,ok
+ESRX,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ESS,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+ETFC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+ETN,Industrials,Industrials,XLI,wikipedia.current,ok
+ETR,Utilities,Utilities,XLU,wikipedia.current,ok
+ETSY,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+EVHC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+EVRG,Utilities,Utilities,XLU,wikipedia.current,ok
+EW,Health Care,Health Care,XLV,wikipedia.current,ok
+EXC,Utilities,Utilities,XLU,wikipedia.current,ok
+EXE,Energy,Energy,XLE,wikipedia.current,ok
+EXPD,Industrials,Industrials,XLI,wikipedia.current,ok
+EXPE,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+EXR,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+F,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+FANG,Energy,Energy,XLE,wikipedia.current,ok
+FAST,Industrials,Industrials,XLI,wikipedia.current,ok
+FBHS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+FCX,Materials,Materials,XLB,wikipedia.current,ok
+FDS,Financials,Financials,XLF,wikipedia.current,ok
+FDX,Industrials,Industrials,XLI,wikipedia.current,ok
+FDXF,Industrials,Industrials,XLI,wikipedia.current,ok
+FE,Utilities,Utilities,XLU,wikipedia.current,ok
+FERG,Industrials,Industrials,XLI,wikipedia.current,ok
+FFIV,Information Technology,Information Technology,XLK,wikipedia.current,ok
+FICO,Information Technology,Information Technology,XLK,wikipedia.current,ok
+FIS,Financials,Financials,XLF,wikipedia.current,ok
+FISV,Financials,Financials,XLF,wikipedia.current,ok
+FITB,Financials,Financials,XLF,wikipedia.current,ok
+FIX,Industrials,Industrials,XLI,wikipedia.current,ok
+FL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+FLEX,Information Technology,Information Technology,XLK,wikipedia.current,ok
+FLIR,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+FLR,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+FLS,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+FLT,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+FMC,Basic Materials,Materials,XLB,yahoo.info->mapping,ok
+FOX,Communication Services,Communication Services,XLC,wikipedia.current,ok
+FOXA,Communication Services,Communication Services,XLC,wikipedia.current,ok
+FRC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+FRT,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+FSLR,Information Technology,Information Technology,XLK,wikipedia.current,ok
+FTI,Energy,Energy,XLE,yahoo.info->mapping,ok
+FTNT,Information Technology,Information Technology,XLK,wikipedia.current,ok
+FTV,Industrials,Industrials,XLI,wikipedia.current,ok
+GD,Industrials,Industrials,XLI,wikipedia.current,ok
+GDDY,Information Technology,Information Technology,XLK,wikipedia.current,ok
+GE,Industrials,Industrials,XLI,wikipedia.current,ok
+GEHC,Health Care,Health Care,XLV,wikipedia.current,ok
+GEN,Information Technology,Information Technology,XLK,wikipedia.current,ok
+GEV,Industrials,Industrials,XLI,wikipedia.current,ok
+GGP,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+GILD,Health Care,Health Care,XLV,wikipedia.current,ok
+GIS,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+GL,Financials,Financials,XLF,wikipedia.current,ok
+GLW,Information Technology,Information Technology,XLK,wikipedia.current,ok
+GM,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+GNRC,Industrials,Industrials,XLI,wikipedia.current,ok
+GOOG,Communication Services,Communication Services,XLC,wikipedia.current,ok
+GOOGL,Communication Services,Communication Services,XLC,wikipedia.current,ok
+GPC,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+GPN,Financials,Financials,XLF,wikipedia.current,ok
+GPS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+GRMN,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+GS,Financials,Financials,XLF,wikipedia.current,ok
+GT,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+GWW,Industrials,Industrials,XLI,wikipedia.current,ok
+HAL,Energy,Energy,XLE,wikipedia.current,ok
+HAS,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+HBAN,Financials,Financials,XLF,wikipedia.current,ok
+HBI,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+HCA,Health Care,Health Care,XLV,wikipedia.current,ok
+HD,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+HES,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+HFC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+HIG,Financials,Financials,XLF,wikipedia.current,ok
+HII,Industrials,Industrials,XLI,wikipedia.current,ok
+HLT,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+HOG,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+HOLX,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+HON,Industrials,Industrials,XLI,wikipedia.current,ok
+HONA,Industrials,Industrials,XLI,wikipedia.current,ok
+HOOD,Financials,Financials,XLF,wikipedia.current,ok
+HP,Energy,Energy,XLE,yahoo.info->mapping,ok
+HPE,Information Technology,Information Technology,XLK,wikipedia.current,ok
+HPQ,Information Technology,Information Technology,XLK,wikipedia.current,ok
+HRB,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+HRL,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+HSIC,Health Care,Health Care,XLV,wikipedia.current,ok
+HST,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+HSY,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+HUBB,Industrials,Industrials,XLI,wikipedia.current,ok
+HUM,Health Care,Health Care,XLV,wikipedia.current,ok
+HWM,Industrials,Industrials,XLI,wikipedia.current,ok
+IBKR,Financials,Financials,XLF,wikipedia.current,ok
+IBM,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ICE,Financials,Financials,XLF,wikipedia.current,ok
+IDXX,Health Care,Health Care,XLV,wikipedia.current,ok
+IEX,Industrials,Industrials,XLI,wikipedia.current,ok
+IFF,Materials,Materials,XLB,wikipedia.current,ok
+ILMN,Health Care,Health Care,XLV,wikipedia.current,ok
+INCY,Health Care,Health Care,XLV,wikipedia.current,ok
+INFO,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+INTC,Information Technology,Information Technology,XLK,wikipedia.current,ok
+INTU,Information Technology,Information Technology,XLK,wikipedia.current,ok
+INVH,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+IP,Materials,Materials,XLB,wikipedia.current,ok
+IPG,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+IPGP,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+IQV,Health Care,Health Care,XLV,wikipedia.current,ok
+IR,Industrials,Industrials,XLI,wikipedia.current,ok
+IRM,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+ISRG,Health Care,Health Care,XLV,wikipedia.current,ok
+IT,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ITW,Industrials,Industrials,XLI,wikipedia.current,ok
+IVZ,Financials,Financials,XLF,wikipedia.current,ok
+J,Industrials,Industrials,XLI,wikipedia.current,ok
+JBHT,Industrials,Industrials,XLI,wikipedia.current,ok
+JBL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+JCI,Industrials,Industrials,XLI,wikipedia.current,ok
+JEF,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+JKHY,Financials,Financials,XLF,wikipedia.current,ok
+JNJ,Health Care,Health Care,XLV,wikipedia.current,ok
+JNPR,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+JPM,Financials,Financials,XLF,wikipedia.current,ok
+JWN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+K,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+KDP,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+KEY,Financials,Financials,XLF,wikipedia.current,ok
+KEYS,Information Technology,Information Technology,XLK,wikipedia.current,ok
+KHC,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+KIM,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+KKR,Financials,Financials,XLF,wikipedia.current,ok
+KLAC,Information Technology,Information Technology,XLK,wikipedia.current,ok
+KMB,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+KMI,Energy,Energy,XLE,wikipedia.current,ok
+KMX,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+KO,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+KR,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+KSS,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+KSU,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+KVUE,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+L,Financials,Financials,XLF,wikipedia.current,ok
+LDOS,Industrials,Industrials,XLI,wikipedia.current,ok
+LEG,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+LEN,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+LH,Health Care,Health Care,XLV,wikipedia.current,ok
+LHX,Industrials,Industrials,XLI,wikipedia.current,ok
+LII,Industrials,Industrials,XLI,wikipedia.current,ok
+LIN,Materials,Materials,XLB,wikipedia.current,ok
+LITE,Information Technology,Information Technology,XLK,wikipedia.current,ok
+LKQ,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+LLL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+LLY,Health Care,Health Care,XLV,wikipedia.current,ok
+LMT,Industrials,Industrials,XLI,wikipedia.current,ok
+LNC,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+LNT,Utilities,Utilities,XLU,wikipedia.current,ok
+LOW,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+LRCX,Information Technology,Information Technology,XLK,wikipedia.current,ok
+LULU,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+LUMN,Communication Services,Communication Services,XLC,yahoo.info->mapping,ok
+LUV,Industrials,Industrials,XLI,wikipedia.current,ok
+LVS,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+LW,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+LYB,Materials,Materials,XLB,wikipedia.current,ok
+LYV,Communication Services,Communication Services,XLC,wikipedia.current,ok
+M,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+MA,Financials,Financials,XLF,wikipedia.current,ok
+MAA,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+MAC,Real Estate,Real Estate,XLRE,yahoo.info->mapping,ok
+MAR,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+MAS,Industrials,Industrials,XLI,wikipedia.current,ok
+MAT,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+MBC,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+MCD,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+MCHP,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MCK,Health Care,Health Care,XLV,wikipedia.current,ok
+MCO,Financials,Financials,XLF,wikipedia.current,ok
+MDLZ,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+MDT,Health Care,Health Care,XLV,wikipedia.current,ok
+MET,Financials,Financials,XLF,wikipedia.current,ok
+META,Communication Services,Communication Services,XLC,wikipedia.current,ok
+MGM,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+MHK,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+MKC,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+MKTX,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+MLM,Materials,Materials,XLB,wikipedia.current,ok
+MMM,Industrials,Industrials,XLI,wikipedia.current,ok
+MNST,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+MO,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+MOH,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+MON,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+MOS,Materials,Materials,XLB,wikipedia.current,ok
+MPC,Energy,Energy,XLE,wikipedia.current,ok
+MPWR,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MRK,Health Care,Health Care,XLV,wikipedia.current,ok
+MRNA,Health Care,Health Care,XLV,wikipedia.current,ok
+MRO,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+MRSH,Financials,Financials,XLF,wikipedia.current,ok
+MRVL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MS,Financials,Financials,XLF,wikipedia.current,ok
+MSCI,Financials,Financials,XLF,wikipedia.current,ok
+MSFT,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MSI,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MTB,Financials,Financials,XLF,wikipedia.current,ok
+MTCH,Communication Services,Communication Services,XLC,yahoo.info->mapping,ok
+MTD,Health Care,Health Care,XLV,wikipedia.current,ok
+MU,Information Technology,Information Technology,XLK,wikipedia.current,ok
+MXIM,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+NAVI,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+NBL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+NCLH,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+NDAQ,Financials,Financials,XLF,wikipedia.current,ok
+NDSN,Industrials,Industrials,XLI,wikipedia.current,ok
+NEE,Utilities,Utilities,XLU,wikipedia.current,ok
+NEM,Materials,Materials,XLB,wikipedia.current,ok
+NFLX,Communication Services,Communication Services,XLC,wikipedia.current,ok
+NFX,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+NI,Utilities,Utilities,XLU,wikipedia.current,ok
+NKE,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+NKTR,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+NLSN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+NOC,Industrials,Industrials,XLI,wikipedia.current,ok
+NOV,Energy,Energy,XLE,yahoo.info->mapping,ok
+NOW,Information Technology,Information Technology,XLK,wikipedia.current,ok
+NRG,Utilities,Utilities,XLU,wikipedia.current,ok
+NSC,Industrials,Industrials,XLI,wikipedia.current,ok
+NTAP,Information Technology,Information Technology,XLK,wikipedia.current,ok
+NTRS,Financials,Financials,XLF,wikipedia.current,ok
+NUE,Materials,Materials,XLB,wikipedia.current,ok
+NVDA,Information Technology,Information Technology,XLK,wikipedia.current,ok
+NVR,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+NWL,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+NWS,Communication Services,Communication Services,XLC,wikipedia.current,ok
+NWSA,Communication Services,Communication Services,XLC,wikipedia.current,ok
+NXPI,Information Technology,Information Technology,XLK,wikipedia.current,ok
+O,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+ODFL,Industrials,Industrials,XLI,wikipedia.current,ok
+OGN,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+OKE,Energy,Energy,XLE,wikipedia.current,ok
+OMC,Communication Services,Communication Services,XLC,wikipedia.current,ok
+ON,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ORCL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ORLY,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+OTIS,Industrials,Industrials,XLI,wikipedia.current,ok
+OXY,Energy,Energy,XLE,wikipedia.current,ok
+P,Information Technology,Information Technology,XLK,wikipedia.current,ok
+PANW,Information Technology,Information Technology,XLK,wikipedia.current,ok
+PAYC,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+PAYX,Industrials,Industrials,XLI,wikipedia.current,ok
+PBCT,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+PCAR,Industrials,Industrials,XLI,wikipedia.current,ok
+PCG,Utilities,Utilities,XLU,wikipedia.current,ok
+PEG,Utilities,Utilities,XLU,wikipedia.current,ok
+PENN,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+PEP,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+PFE,Health Care,Health Care,XLV,wikipedia.current,ok
+PFG,Financials,Financials,XLF,wikipedia.current,ok
+PG,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+PGR,Financials,Financials,XLF,wikipedia.current,ok
+PH,Industrials,Industrials,XLI,wikipedia.current,ok
+PHM,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+PKG,Materials,Materials,XLB,wikipedia.current,ok
+PLD,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+PLTR,Information Technology,Information Technology,XLK,wikipedia.current,ok
+PM,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+PNC,Financials,Financials,XLF,wikipedia.current,ok
+PNR,Industrials,Industrials,XLI,wikipedia.current,ok
+PNW,Utilities,Utilities,XLU,wikipedia.current,ok
+PODD,Health Care,Health Care,XLV,wikipedia.current,ok
+POOL,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+PPG,Materials,Materials,XLB,wikipedia.current,ok
+PPL,Utilities,Utilities,XLU,wikipedia.current,ok
+PRGO,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+PRU,Financials,Financials,XLF,wikipedia.current,ok
+PSA,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+PSX,Energy,Energy,XLE,wikipedia.current,ok
+PTC,Information Technology,Information Technology,XLK,wikipedia.current,ok
+PVH,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+PWR,Industrials,Industrials,XLI,wikipedia.current,ok
+PXD,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+PYPL,Financials,Financials,XLF,wikipedia.current,ok
+Q,Information Technology,Information Technology,XLK,wikipedia.current,ok
+QCOM,Information Technology,Information Technology,XLK,wikipedia.current,ok
+QRVO,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+RCL,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+RDDT,Communication Services,Communication Services,XLC,wikipedia.current,ok
+REG,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+REGN,Health Care,Health Care,XLV,wikipedia.current,ok
+RF,Financials,Financials,XLF,wikipedia.current,ok
+RHI,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+RHT,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+RJF,Financials,Financials,XLF,wikipedia.current,ok
+RL,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+RMD,Health Care,Health Care,XLV,wikipedia.current,ok
+ROK,Industrials,Industrials,XLI,wikipedia.current,ok
+ROL,Industrials,Industrials,XLI,wikipedia.current,ok
+ROP,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ROST,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+RRC,Energy,Energy,XLE,yahoo.info->mapping,ok
+RSG,Industrials,Industrials,XLI,wikipedia.current,ok
+RTN,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+RTX,Industrials,Industrials,XLI,wikipedia.current,ok
+RVTY,Health Care,Health Care,XLV,wikipedia.current,ok
+SATS,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+SBAC,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+SBNY,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+SBUX,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+SCG,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+SCHW,Financials,Financials,XLF,wikipedia.current,ok
+SEDG,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+SEE,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+SHW,Materials,Materials,XLB,wikipedia.current,ok
+SIVB,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+SJM,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+SKYD,Communication Services,Communication Services,XLC,wikipedia.current,ok
+SLB,Energy,Energy,XLE,wikipedia.current,ok
+SLG,Real Estate,Real Estate,XLRE,yahoo.info->mapping,ok
+SMCI,Information Technology,Information Technology,XLK,wikipedia.current,ok
+SNA,Industrials,Industrials,XLI,wikipedia.current,ok
+SNDK,Information Technology,Information Technology,XLK,wikipedia.current,ok
+SNPS,Information Technology,Information Technology,XLK,wikipedia.current,ok
+SO,Utilities,Utilities,XLU,wikipedia.current,ok
+SOLS,Basic Materials,Materials,XLB,yahoo.info->mapping,ok
+SOLV,Health Care,Health Care,XLV,wikipedia.current,ok
+SPG,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+SPGI,Financials,Financials,XLF,wikipedia.current,ok
+SRCL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+SRE,Utilities,Utilities,XLU,wikipedia.current,ok
+STE,Health Care,Health Care,XLV,wikipedia.current,ok
+STI,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+STLD,Materials,Materials,XLB,wikipedia.current,ok
+STT,Financials,Financials,XLF,wikipedia.current,ok
+STX,Information Technology,Information Technology,XLK,wikipedia.current,ok
+STZ,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+SW,Materials,Materials,XLB,wikipedia.current,ok
+SWK,Industrials,Industrials,XLI,wikipedia.current,ok
+SWKS,Information Technology,Information Technology,XLK,wikipedia.current,ok
+SYF,Financials,Financials,XLF,wikipedia.current,ok
+SYK,Health Care,Health Care,XLV,wikipedia.current,ok
+SYY,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+T,Communication Services,Communication Services,XLC,wikipedia.current,ok
+TAP,Consumer Defensive,Consumer Staples,XLP,yahoo.info->mapping,ok
+TDG,Industrials,Industrials,XLI,wikipedia.current,ok
+TDY,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TECH,Health Care,Health Care,XLV,wikipedia.current,ok
+TEL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TER,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TFC,Financials,Financials,XLF,wikipedia.current,ok
+TFX,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+TGT,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+TIF,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+TJX,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+TKO,Communication Services,Communication Services,XLC,wikipedia.current,ok
+TMO,Health Care,Health Care,XLV,wikipedia.current,ok
+TMUS,Communication Services,Communication Services,XLC,wikipedia.current,ok
+TPL,Energy,Energy,XLE,wikipedia.current,ok
+TPR,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+TRGP,Energy,Energy,XLE,wikipedia.current,ok
+TRIP,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+TRMB,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TROW,Financials,Financials,XLF,wikipedia.current,ok
+TRV,Financials,Financials,XLF,wikipedia.current,ok
+TSCO,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+TSLA,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+TSN,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+TSS,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+TT,Industrials,Industrials,XLI,wikipedia.current,ok
+TTD,Communication Services,Communication Services,XLC,yahoo.info->mapping,ok
+TTWO,Communication Services,Communication Services,XLC,wikipedia.current,ok
+TWLO,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TWTR,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+TWX,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+TXN,Information Technology,Information Technology,XLK,wikipedia.current,ok
+TXT,Industrials,Industrials,XLI,wikipedia.current,ok
+TYL,Information Technology,Information Technology,XLK,wikipedia.current,ok
+UA,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+UAA,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+UAL,Industrials,Industrials,XLI,wikipedia.current,ok
+UBER,Industrials,Industrials,XLI,wikipedia.current,ok
+UDR,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+UHS,Health Care,Health Care,XLV,wikipedia.current,ok
+ULTA,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+UNH,Health Care,Health Care,XLV,wikipedia.current,ok
+UNM,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+UNP,Industrials,Industrials,XLI,wikipedia.current,ok
+UPS,Industrials,Industrials,XLI,wikipedia.current,ok
+URI,Industrials,Industrials,XLI,wikipedia.current,ok
+USB,Financials,Financials,XLF,wikipedia.current,ok
+V,Financials,Financials,XLF,wikipedia.current,ok
+VAR,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+VEEV,Health Care,Health Care,XLV,wikipedia.current,ok
+VFC,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+VIAB,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+VICI,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+VLO,Energy,Energy,XLE,wikipedia.current,ok
+VLTO,Industrials,Industrials,XLI,wikipedia.current,ok
+VMC,Materials,Materials,XLB,wikipedia.current,ok
+VMRK,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+VNO,Real Estate,Real Estate,XLRE,yahoo.info->mapping,ok
+VNT,Technology,Information Technology,XLK,yahoo.info->mapping,ok
+VRSK,Industrials,Industrials,XLI,wikipedia.current,ok
+VRSN,Information Technology,Information Technology,XLK,wikipedia.current,ok
+VRT,Industrials,Industrials,XLI,wikipedia.current,ok
+VRTX,Health Care,Health Care,XLV,wikipedia.current,ok
+VST,Utilities,Utilities,XLU,wikipedia.current,ok
+VTR,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+VTRS,Health Care,Health Care,XLV,wikipedia.current,ok
+VZ,Communication Services,Communication Services,XLC,wikipedia.current,ok
+WAB,Industrials,Industrials,XLI,wikipedia.current,ok
+WAT,Health Care,Health Care,XLV,wikipedia.current,ok
+WBA,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+WBD,Communication Services,Communication Services,XLC,yahoo.info->mapping,ok
+WCG,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+WDAY,Information Technology,Information Technology,XLK,wikipedia.current,ok
+WDC,Information Technology,Information Technology,XLK,wikipedia.current,ok
+WEC,Utilities,Utilities,XLU,wikipedia.current,ok
+WELL,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+WFC,Financials,Financials,XLF,wikipedia.current,ok
+WHR,Consumer Cyclical,Consumer Discretionary,XLY,yahoo.info->mapping,ok
+WLTW,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+WM,Industrials,Industrials,XLI,wikipedia.current,ok
+WMB,Energy,Energy,XLE,wikipedia.current,ok
+WMT,Consumer Staples,Consumer Staples,XLP,wikipedia.current,ok
+WRB,Financials,Financials,XLF,wikipedia.current,ok
+WSM,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+WST,Health Care,Health Care,XLV,wikipedia.current,ok
+WTW,Financials,Financials,XLF,wikipedia.current,ok
+WU,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+WY,Real Estate,Real Estate,XLRE,wikipedia.current,ok
+WYNN,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+XEC,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+XEL,Utilities,Utilities,XLU,wikipedia.current,ok
+XL,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+XLNX,,,,yahoo.info,excluded: unmapped Yahoo sector nan
+XOM,Energy,Energy,XLE,wikipedia.current,ok
+XRAY,Healthcare,Health Care,XLV,yahoo.info->mapping,ok
+XRX,Industrials,Industrials,XLI,yahoo.info->mapping,ok
+XYL,Industrials,Industrials,XLI,wikipedia.current,ok
+XYZ,Financials,Financials,XLF,wikipedia.current,ok
+YUM,Consumer Discretionary,Consumer Discretionary,XLY,wikipedia.current,ok
+ZBH,Health Care,Health Care,XLV,wikipedia.current,ok
+ZBRA,Information Technology,Information Technology,XLK,wikipedia.current,ok
+ZION,Financial Services,Financials,XLF,yahoo.info->mapping,ok
+ZTS,Health Care,Health Care,XLV,wikipedia.current,ok
