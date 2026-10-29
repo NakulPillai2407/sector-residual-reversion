@@ -1,0 +1,15 @@
+{
+ "data/raw/current_constituents.csv": "2bda5531d47f2237664c07c4c61d1cd2cf887a5ccc29d27da26fc87bd72a4757",
+ "data/raw/index_changes.csv": "914bee9fcf95d94cbc71023a986855ceb7e3b431ff32f821d2b9f963a1bb8629",
+ "data/raw/prices_raw.parquet": "f7efe29571c1d1533f47e0b1e4a1bfacd67a57ab89dc92c1b709e234a05c82e8",
+ "data/raw/wikipedia_changes.html": "63642bd7374f871d5a1965158566f0a3d1d69fcb8b2dae2b35633cef10323ab3",
+ "data/raw/wikipedia_constituents.html": "06a5466a38f8a0a664198d964e5cb55d53dd8e001f2a9755fc27ae6b4df0fe13",
+ "data/raw/yahoo_sector_info.json": "748f6cdd4d262799a10075308fb182546c210b41d7f4f323b0f4ade52099b1a2",
+ "data/processed/membership.parquet": "fe8a407e071606ad401f807f3f4e34187d2a07c5f168a4d2a855ec5b09e58f57",
+ "data/processed/prices_ho.parquet": "e2cbe19f9905a6372401b55e570e7bbd8bfadaba2858c511120669305f77ecd1",
+ "data/processed/prices_is.parquet": "b32750a4f08fc769fa20e4fd310b735f75cedf12d65e8230272897dcad899a58",
+ "data/processed/sector_map.csv": "5d325dabaf40d0aaacd1b892ae44911427ac7af680aa227f8eec71fdbb06aa3a",
+ "data/processed/sim_calibration.json": "23c5885fda8509bec1f1ae6cd84e29d3ddf633e14a3d5bb051c6caa84122ae1d",
+ "data/processed/ticker_status.csv": "14216b7bccccb94a319d9af9a511149f5ac137587a7074452ccefd304daf5339",
+ "data/processed/yahoo_to_gics_mapping.csv": "aa41144f13ed29cc0e3aa4085fb740b92302e324346c7c58516f4e107b51948b"
+}
