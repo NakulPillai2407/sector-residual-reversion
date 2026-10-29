@@ -1,0 +1,103 @@
+# Pre-registered parameters (single source of truth).
+# Do NOT change after Stage 1 begins without a DEVIATIONS.md entry and explicit approval.
+project: holdout-etf-reversion
+seed: 20240601
+
+etfs: [XLK, XLF, XLE, XLV, XLY, XLP, XLI, XLB, XLU, XLRE, XLC]
+benchmark: SPY
+tbill_ticker: "^IRX"            # Yahoo 13-week T-bill yield (annualised %, used for benchmark excess returns)
+
+# GICS sector (Wikipedia spelling) -> sector ETF
+sector_to_etf:
+  Information Technology: XLK
+  Financials: XLF
+  Energy: XLE
+  Health Care: XLV
+  Consumer Discretionary: XLY
+  Consumer Staples: XLP
+  Industrials: XLI
+  Materials: XLB
+  Utilities: XLU
+  Real Estate: XLRE
+  Communication Services: XLC
+
+# Explicit Yahoo (Morningstar-style) sector name -> GICS sector mapping, used ONLY for removed tickers.
+yahoo_sector_to_gics:
+  Technology: Information Technology
+  Financial Services: Financials
+  Energy: Energy
+  Healthcare: Health Care
+  Consumer Cyclical: Consumer Discretionary
+  Consumer Defensive: Consumer Staples
+  Industrials: Industrials
+  Basic Materials: Materials
+  Utilities: Utilities
+  Real Estate: Real Estate
+  Communication Services: Communication Services
+
+dates:
+  data_start: "2018-06-01"      # warm-up
+  signal_start: "2018-10-01"
+  end: "2026-09-30"
+split:
+  in_sample: ["2018-10-01", "2023-12-31"]
+  holdout: ["2024-01-01", "2026-09-30"]
+
+filters:
+  min_price: 5.00               # unadjusted (Yahoo "Close") close at signal time t
+
+signal:
+  beta_window: 60
+  min_beta_obs: 50
+  z_window: 60
+  min_z_obs: 50
+  entry_threshold: 1.0
+  leg_gross: 0.5                # long leg +0.5, short leg -0.5
+
+timing:
+  primary: open_open            # signal close t, enter open t+1, exit open t+2
+  variants: [close_close_lag, same_close]
+  non_tradable: [same_close]
+
+costs:
+  stock_bps_per_side: 5.0
+  etf_bps_per_side: 1.0
+  borrow_bps_per_year: 50.0
+  sensitivities_bps: [2.0, 10.0]
+  days_per_year: 252
+
+inference:
+  nw_lags: 5
+  bootstrap_mean_block: 10
+  bootstrap_resamples: 10000
+  ann_factor: 252
+  ci_level: 0.95
+
+sim:
+  n_sims: 200
+  planted_phi: -0.10
+  null_phi: 0.0
+  recovery_tol: 0.02
+  max_false_positive_rate: 0.10
+  overnight_share: 0.35         # share of daily residual realised overnight (close->open) in simulated panels
+  gap_noise_sd: 0.003           # extra mean-zero overnight gap noise that reverses intraday
+  placebo_shuffles: 20
+
+robustness:
+  exclude_tickers: [V, MA, PYPL]
+  exclude_top_n_adv: 10         # top-N by trailing average dollar volume (Close*Volume), point-in-time
+  adv_window: 60
+
+exploratory:                    # LABELLED EXPLORATORY; never used to change the primary spec
+  thresholds: [0.5, 1.5, 2.0]
+  holds: [2, 3, 5]
+  continuous_clip: 3.0
+  exclude_abs_z_above: 4.0
+
+data:
+  wikipedia_constituents_url: "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+  wikipedia_changes_url: "https://en.wikipedia.org/wiki/Historical_components_of_the_S%26P_500"
+  user_agent: "holdout-research/0.1 (academic research; contact pillainakul@gmail.com)"
+  yahoo_batch_size: 40
+  raw_dir: data/raw
+  processed_dir: data/processed

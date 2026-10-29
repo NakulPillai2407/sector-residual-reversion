@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+.DS_Store
+.env
+# raw and vendor data are not published; scripts/run_stage0_data.py re-downloads them
+data/raw/
+data/processed/prices_is.parquet
+data/processed/prices_ho.parquet
