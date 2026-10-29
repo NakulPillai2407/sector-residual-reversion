@@ -1,0 +1,2 @@
+ticker,first,last,n_missing_sessions,n_extra_dates,is_etf_or_benchmark
+FISV,2024-01-02,2026-09-30,1,0,False

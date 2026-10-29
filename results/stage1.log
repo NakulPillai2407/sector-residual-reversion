@@ -1,0 +1,29 @@
+placebo 0: FM t=-1.22 net Sharpe=-1.61 CI=(-2.53,-0.69)
+placebo 1: FM t=-1.33 net Sharpe=-1.54 CI=(-2.44,-0.66)
+placebo 2: FM t=-1.39 net Sharpe=-1.58 CI=(-2.49,-0.70)
+placebo 3: FM t=-1.26 net Sharpe=-1.53 CI=(-2.45,-0.64)
+placebo 4: FM t=-1.25 net Sharpe=-1.64 CI=(-2.59,-0.75)
+placebo 5: FM t=-1.48 net Sharpe=-1.40 CI=(-2.35,-0.48)
+placebo 6: FM t=-1.19 net Sharpe=-1.62 CI=(-2.52,-0.76)
+placebo 7: FM t=-1.48 net Sharpe=-1.60 CI=(-2.51,-0.72)
+placebo 8: FM t=-1.47 net Sharpe=-1.51 CI=(-2.39,-0.64)
+placebo 9: FM t=-1.60 net Sharpe=-1.62 CI=(-2.52,-0.69)
+placebo 10: FM t=-1.23 net Sharpe=-1.60 CI=(-2.53,-0.73)
+placebo 11: FM t=-1.43 net Sharpe=-1.55 CI=(-2.53,-0.63)
+placebo 12: FM t=-1.40 net Sharpe=-1.64 CI=(-2.54,-0.77)
+placebo 13: FM t=-1.42 net Sharpe=-1.62 CI=(-2.58,-0.68)
+placebo 14: FM t=-1.47 net Sharpe=-1.60 CI=(-2.57,-0.67)
+placebo 15: FM t=-1.43 net Sharpe=-1.61 CI=(-2.50,-0.71)
+placebo 16: FM t=-1.30 net Sharpe=-1.55 CI=(-2.45,-0.68)
+placebo 17: FM t=-1.41 net Sharpe=-1.59 CI=(-2.52,-0.68)
+placebo 18: FM t=-1.28 net Sharpe=-1.59 CI=(-2.52,-0.70)
+placebo 19: FM t=-1.42 net Sharpe=-1.62 CI=(-2.50,-0.77)
+                                                                              check                                           value  passed
+                                   1a planted: mean FM coef within +/-0.02 of -0.10                                         -0.0984    True
+                                            1a planted: mean gross daily return > 0             1.43e-03 (positive in 100% of sims)    True
+                                        1b null: share of sims with FM |t|>2 <= 10%                                            3.0%    True
+                  1b null: share of sims with net-Sharpe CI entirely above 0 <= 10%                                            0.0%    True
+1c placebo (real in-sample data, wrong-ETF hedge): share of shuffles flagged <= 10% 0% (median FM t=-1.40, median net Sharpe=-1.60)    True
+                                             1d unit tests (incl. look-ahead tests)                              13 passed in 2.96s    True
+{'null_gross_ci_above_zero': 0.025, 'null_mean_fm': -1.3474078484412527e-05, 'planted_mean_gross_sharpe': 20.192783601688937, 'planted_mean_net_sharpe': 7.386028103488459, 'planted_gross_ci_above_zero': 1.0, 'planted_fm_sd': 0.0015639622228756063}
+STAGE 1: PASS

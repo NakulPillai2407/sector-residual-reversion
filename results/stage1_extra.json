@@ -1,0 +1,8 @@
+{
+ "null_gross_ci_above_zero": 0.025,
+ "null_mean_fm": -1.3474078484412527e-05,
+ "planted_mean_gross_sharpe": 20.192783601688937,
+ "planted_mean_net_sharpe": 7.386028103488459,
+ "planted_gross_ci_above_zero": 1.0,
+ "planted_fm_sd": 0.0015639622228756063
+}

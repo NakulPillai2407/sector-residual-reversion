@@ -1,0 +1,7 @@
+check,value,passed
+1a planted: mean FM coef within +/-0.02 of -0.10,-0.0984,True
+1a planted: mean gross daily return > 0,1.43e-03 (positive in 100% of sims),True
+1b null: share of sims with FM |t|>2 <= 10%,3.0%,True
+1b null: share of sims with net-Sharpe CI entirely above 0 <= 10%,0.0%,True
+"1c placebo (real in-sample data, wrong-ETF hedge): share of shuffles flagged <= 10%","0% (median FM t=-1.40, median net Sharpe=-1.60)",True
+1d unit tests (incl. look-ahead tests),13 passed in 2.96s,True

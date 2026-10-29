@@ -1,0 +1,11 @@
+{
+ "signal_days": 1993,
+ "empty_leg_days": 1,
+ "no_long_days": 1,
+ "no_short_days": 0,
+ "nan_position_days": 0,
+ "nan_positions": 0,
+ "period_days": 689,
+ "days_with_position": 688,
+ "avg_stock_turnover_daily": 1.7701073084963217
+}

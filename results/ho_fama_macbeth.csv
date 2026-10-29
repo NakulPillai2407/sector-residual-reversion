@@ -1,0 +1,25 @@
+regression,sector,mean_coef,nw_se,nw_t,n_days
+close-to-close e(t+1) on e(t)  [primary],ALL,-0.003970174508461291,0.006059662182205444,-0.6551808317169797,689
+close-to-close e(t+1) on e(t)  [primary],Information Technology,0.0018654627001743525,0.011220079191162802,0.1662610992660047,689
+close-to-close e(t+1) on e(t)  [primary],Financials,-0.02640069226743803,0.011876592443293634,-2.2229180965408752,689
+close-to-close e(t+1) on e(t)  [primary],Energy,-0.004988380314676242,0.013994386880739246,-0.3564557959693003,689
+close-to-close e(t+1) on e(t)  [primary],Health Care,0.0025879249915519154,0.0122335543481485,0.2115431801668979,689
+close-to-close e(t+1) on e(t)  [primary],Consumer Discretionary,-0.001535505335722962,0.008948955808429299,-0.17158486069141407,689
+close-to-close e(t+1) on e(t)  [primary],Consumer Staples,0.007464725481632996,0.01245952126107323,0.5991181623450277,689
+close-to-close e(t+1) on e(t)  [primary],Industrials,-0.009528818601278494,0.008826718167056706,-1.079542636451471,689
+close-to-close e(t+1) on e(t)  [primary],Materials,-0.004656175517119592,0.013857498696584961,-0.3360040378908395,689
+close-to-close e(t+1) on e(t)  [primary],Utilities,-0.03707047312790975,0.020992521747787204,-1.7658894711788167,689
+close-to-close e(t+1) on e(t)  [primary],Real Estate,0.0049015721096655335,0.013615285742900282,0.3600050856238157,689
+close-to-close e(t+1) on e(t)  [primary],Communication Services,-0.017370849403464686,0.019257391528158058,-0.9020354276987681,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],ALL,0.004924568232401348,0.005926434463169328,0.8309495807311765,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Information Technology,0.011126234701431894,0.010947932031206715,1.0162864246614733,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Financials,-0.009846977391291176,0.011020954006777904,-0.8934777683706211,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Energy,0.017536643023194107,0.01423425179646295,1.2320031480370304,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Health Care,0.015647777803451553,0.010238405859338362,1.528341229917092,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Consumer Discretionary,0.0008225808670075038,0.009223246199955298,0.08918561308831706,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Consumer Staples,0.003579016920814973,0.012692652358897093,0.2819754941374575,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Industrials,-0.004572141808527049,0.009048761495586205,-0.505278187601391,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Materials,0.0014884903777115047,0.01420390962064925,0.10479441347244133,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Utilities,-0.050006991888363064,0.020720072738993633,-2.413456386871347,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Real Estate,0.01247702227514203,0.01300953958514096,0.9590671670958169,689
+next-day open-to-open residual (open t+1 -> t+2) on e(t)  [secondary],Communication Services,0.010445861447312691,0.018643013013642695,0.5603097224503656,689

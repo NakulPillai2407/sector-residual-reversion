@@ -1,0 +1,6 @@
+date,ticker,issue,row
+2026-03-23,SATS,undo-add: ticker not in membership,Market capitalization changes.
+2022-04-11,WBD,undo-add: ticker not in membership,WarnerMedia and Discovery merged to create Warner Bros. Discovery.
+2022-01-10,WTW,possible symbol change (same security name),Willis Towers Watson changed its ticker symbol from WLTW to WTW.
+2019-06-03,DD,possible symbol change (same security name),DWDP changed to DD after spinning off Corteva.
+2018-06-20,FLT,undo-add: ticker not in membership,AT&T acquired Time Warner.
